@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @davidlloydowen
-- 👀 I’m interested in games like Wordle, Dordle, Quordle, Nerdle, xdle, Statele and - especially - Worldle!
+- 👀 I’m interested in games like Wordle, Nerdle
 -     Until recently I edited a weekly COVID-19 Newsletter 
 -     (http://www.icesfoundation.org/UsersFiles/FCKeditorFiles/file/COVID-19%20Weekly%20Newsletter%20(175)%2020220424.pdf)
-- 🌱 I’m currently learning geography (thanks to teuteuf!). 
-- 💞️ I’m not eally looking to collaborate on anything at present, but I will be attending the next ICES Workshop in Geneva.
+- 💞️ I’m not eally looking to collaborate on anything at present.
 - 📫 How to reach me ... dr.david.lloydowen@gmail.com
 
 <!---
